@@ -10,6 +10,7 @@ This is a web based application on Foodie Blog
 **Azure Technologies Used For Project
 
 1.Static Web Apps
+
 2.QnA Maker
 
 
