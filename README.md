@@ -34,12 +34,13 @@ This is a web based application on Foodie Blog
 ### About Us -
 
 
-![git2](https://user-images.githubusercontent.com/112065943/208030392-f8b89a31-b299-4fa8-9f0e-7bdd3e23c567.png)
+![git3](https://user-images.githubusercontent.com/112065943/208032257-653bd4ac-6c2d-48d6-8b4f-63b12d3b14e8.png)
 
 ### Privacy policy -
 
 
-![git3](https://user-images.githubusercontent.com/112065943/208030413-36299b7c-d62a-4315-b7de-b8c921849d5f.png)
+
+![git2](https://user-images.githubusercontent.com/112065943/208032327-d2b9228c-6ce7-4539-9505-bc035a09ee8b.png)
 
 ## Tech Stack 💻
 
