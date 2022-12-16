@@ -8,6 +8,7 @@ This is a web based application on Foodie Blog
 **Project Link** -https://red-beach-05b8ed910.2.azurestaticapps.net/
 
 **Azure Technologies Used For Project
+
 1.Static Web Apps
 2.QnA Maker
 
